@@ -276,7 +276,9 @@ nav {
 .pub {
   margin-top: 25px;
   padding: 10px;
-  border: 1px solid #ddd;
+  border-style: outset;
+  border-width: 2px;
+  border-color: #ddd;
   background-color: $lightGray;
 }
 
