@@ -5,19 +5,15 @@ permalink: /software/
 ---
 
 ---
+<div class="pub">
+  <h2>CostCla</h2>
+  <p>An example-dependent cost-sensitive classification library in python</p>
+  <a href='https://github.com/albahnsen/CostSensitiveClassification'>[Code on GitHub]</a>
+</div>
 
-### CostCla
+<div class="pub">
+  <h2>pyEA</h2>
+  <p>A Python Evolutionary Algorithms Library</p>
+  <a href='https://github.com/albahnsen/pyea'>[Code on GitHub]</a>
+</div>
 
-An example-dependent cost-sensitive classification library in python
-
-[Code on GitHub](https://github.com/albahnsen/CostSensitiveClassification)
-
----
-
-### pyEA
-
-A Python Evolutionary Algorithms Library
-
-[Code on GitHub](https://github.com/albahnsen/pyea)
-
----
