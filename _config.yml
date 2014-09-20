@@ -72,4 +72,3 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
-    - files/
