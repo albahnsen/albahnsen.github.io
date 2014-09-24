@@ -43,6 +43,12 @@ permalink: /publications/
 </div>
 
 <div class="pub">
+<b>Analytics - compitiendo en la era de la informacion</b>,
+  October, 2013, Bogota, Colombia<p></p>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/39483259" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+</div>
+
+<div class="pub">
   <b>Data Analysis for Credit Card Fraud Detection</b>,
   European Conference on Data Analysis, July 11, 2013, Luxembourg
   <a href='../files/Data analysis for credit card fraud detection.pptx' target="_blank">[slides]</a>
