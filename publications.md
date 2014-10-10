@@ -8,7 +8,7 @@ permalink: /publications/
 
 <div class="pub">
   <b>Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring</b>,
-  December 3, 2014, Detroit, US <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_cameraready' target="_blank">[paper]</a>
+  December 3, 2014, Detroit, US <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_cameraready.pdf' target="_blank">[paper]</a>
 </div>
 
 <div class="pub">
