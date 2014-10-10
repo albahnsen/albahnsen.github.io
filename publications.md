@@ -7,6 +7,11 @@ permalink: /publications/
 ---
 
 <div class="pub">
+  <b>Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring</b>,
+  December 3, 2014, Detroit, US <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_cameraready' target="_blank">[paper]</a>
+</div>
+
+<div class="pub">
   <b>Fraud analytics: detección y prevención de fraudes en la era del big data</b>,
   ASOBANCARIA - VIII Congreso de prevención del fraude, October 3, 2014, Bogota, Colombia<p></p>
   <iframe src="//www.slideshare.net/slideshow/embed_code/39976262" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
