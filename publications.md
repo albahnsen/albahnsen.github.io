@@ -16,6 +16,7 @@ permalink: /publications/
   ASOBANCARIA - VIII Congreso de prevención del fraude, October 3, 2014, Bogota, Colombia<p></p>
   <iframe src="//www.slideshare.net/slideshow/embed_code/39976262" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
   </iframe>
+  <iframe src="//player.vimeo.com/video/108622723" frameBorder="0" height="356" width="427" allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
 </div>
 
 <div class="pub">
