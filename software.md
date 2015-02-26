@@ -5,37 +5,45 @@ permalink: /software/
 ---
 
 ---
-<div class="pub">
-  <h2> CostCla - CostSensitiveClassification </h2>
 
-  <p>
-  costcla is a Python module for cost-sensitive machine learning (classification)
-  built on top of <a href=http://scikit-learn.org/stable/>Scikit-Learn</a>, <a href=http://www.scipy.org/>SciPy</a>
-  and distributed under the 3-Clause BSD license.</p>
+CostSensitiveClassification
+===========================
 
-  <p>In particular, it provides:
+costcla is a Python module for cost-sensitive machine learning (classification)
+built on top of [Scikit-Learn](http://scikit-learn.org/stable/), [SciPy](http://www.scipy.org/)
+and distributed under the 3-Clause BSD license.
 
-  1. A set of example-dependent cost-sensitive algorithms
-  2. Different reald-world example-dependent cost-sensitive datasets.</p>
-  
-  <p>
-  The project is part of the PhD research of <a href=http://albahnsen.com>Alejandro Correa Bahnsen</a>
-  </p>
+In particular, it provides:
 
-  <h4>Installation</h4>
-  <p>pip install costcla</p>
+1. A set of example-dependent cost-sensitive algorithms
+2. Different reald-world example-dependent cost-sensitive datasets.
+
+The project is part of the PhD research of [Alejandro Correa Bahnsen](http://albahnsen.com).
+
+### Installation
+
+You can install ``costcla`` with ``pip``::
+
+    # pip install costcla
     
-  <h4>Documentation</h4>
-  <p>Documentation is available at https://pythonhosted.org/costcla/</p>
+### Documentation
 
-  <h4>Development</h4>
-  <p>Source code is available at https://github.com/albahnsen/CostSensitiveClassification</p>
+Documentation is available at 
+[https://pythonhosted.org/costcla/](https://pythonhosted.org/costcla/)
 
-</div>
+### Development
 
-<div class="pub">
-  <h2>pyEA</h2>
-  <p>A Python Evolutionary Algorithms Library</p>
-  <a href='https://github.com/albahnsen/pyea'>[Code on GitHub]</a>
-</div>
+Source code is available at [https://github.com/albahnsen/CostSensitiveClassification](https://github.com/albahnsen/CostSensitiveClassification)
 
+------
+
+pyea
+===========================
+
+Python Evolutionary Algorithms Library
+
+### Development
+
+Source code is available at [https://github.com/albahnsen/pyea](https://github.com/albahnsen/pyea)
+
+-----
