@@ -54,7 +54,7 @@ permalink: /talks/
 <div class="pub">
   <b>Credit Card Fraud Detection: Why Theory Doesn't Adjust to Practice</b>,
   SAS Analytics Conference, June 2, 2013, London, UK
-    <a href='https://drive.google.com/file/d/0B8C2ZnipEvvEQzhZR0hvM2I5MlU/preview' target="_blank">[video]</a><p></p>
+    <a href='http://youtu.be/YCNkxaVDiA0' target="_blank">[video]</a><p></p>
 <iframe src="//www.slideshare.net/slideshow/embed_code/23233163" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 </div>
 
