@@ -31,7 +31,7 @@ You can install ``costcla`` with ``pip``::
 ### Documentation
 
 Documentation is available at 
-[https://pythonhosted.org/costcla/](https://pythonhosted.org/costcla/)
+[http://albahnsen.github.com/CostSensitiveClassification](http://albahnsen.github.com/CostSensitiveClassification)
 
 ### Development
 
