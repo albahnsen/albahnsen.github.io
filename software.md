@@ -9,6 +9,8 @@ permalink: /software/
 CostSensitiveClassification
 ===========================
 
+![img](https://raw.githubusercontent.com/albahnsen/CostSensitiveClassification/master/logo.png)
+
 costcla is a Python module for cost-sensitive machine learning (classification)
 built on top of [Scikit-Learn](http://scikit-learn.org/stable/), [SciPy](http://www.scipy.org/)
 and distributed under the 3-Clause BSD license.
