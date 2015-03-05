@@ -7,6 +7,13 @@ permalink: /talks/
 ---
 
 <div class="pub">
+  <b>Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?</b>,
+  DataScience Luxembourg Meetup, March 4, 2015, Luxembourg
+  <a href='https://albahnsen.shinyapps.io/presentation_jmlr_15_delgado14a' target="_blank">[webapp]</a>
+  <a href="https://github.com/albahnsen/presentation_jmlr_15_delgado14a" target="_blank">[source code]</a>
+</div>
+
+<div class="pub">
   <b>Fraud analytics: detección y prevención de fraudes en la era del big data</b>,
   ASOBANCARIA - VIII Congreso de prevención del fraude, October 3, 2014, Bogota, Colombia
     <a href='https://vimeo.com/108622723' target="_blank">[video]</a><p></p>
