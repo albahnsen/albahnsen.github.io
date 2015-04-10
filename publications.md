@@ -11,18 +11,21 @@ permalink: /publications/
   International Conference on Machine Learning and Applications, December 3, 2014, Detroit, US <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_publish.pdf' target="_blank">[paper]</a>
 <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_poster.pdf' target="_blank">[poster]</a>
 <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_slides.pdf' target="_blank">[slides]</a>
+<a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/regression.py#L99' target="_blank">[source code]</a>
 </div>
 
 <div class="pub">
   <b>Improving Credit Card Fraud Detection with Calibrated Probabilities</b>,
   SIAM International Conference on Data Mining, April 25, 2014, Philadelphia, US
   <a href='../files/ Improving Credit Card Fraud Detection by using Calibrated Probabilities - Publish.pdf' target="_blank">[paper]</a>
+  <a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/directcost.py#L15' target="_blank">[source code]</a>
 </div>
 
 <div class="pub">
   <b>Cost Sensitive Credit Card Fraud Detection using Bayes Minimum Risk</b>,
   IEEE International Conference on Machine Learning and Applications, December 3, 2013, Miami, US
   <a href='../files/Cost%20Sensitive%20Credit%20Card%20Fraud%20Detection%20using%20Bayes%20Minimum%20Risk%20-%20Publish.pdf' target="_blank">[paper]</a>
+  <a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/directcost.py#L15' target="_blank">[source code]</a>
 </div>
 
 <div class="pub">
