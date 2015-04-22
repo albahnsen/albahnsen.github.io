@@ -7,6 +7,11 @@ permalink: /publications/
 ---
 
 <div class="pub">
+  <b>Example-Dependent Cost-Sensitive Decision Trees</b>,
+  Expert Systems with Applications, in press, 2015 <a href='../files/Example-Dependent Cost-Sensitive Decision Trees_preprint.pdf' target="_blank">[paper]</a>
+</div>
+
+<div class="pub">
   <b>Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring</b>,
   International Conference on Machine Learning and Applications, December 3, 2014, Detroit, US <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_publish.pdf' target="_blank">[paper]</a>
 <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_poster.pdf' target="_blank">[poster]</a>
