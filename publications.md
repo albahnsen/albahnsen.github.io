@@ -8,7 +8,7 @@ permalink: /publications/
 
 <div class="pub">
   <b>Example-Dependent Cost-Sensitive Decision Trees</b>,
-  Expert Systems with Applications, in press, 2015 <a href='../files/Example-Dependent Cost-Sensitive Decision Trees_preprint.pdf' target="_blank">[paper]</a>
+  Expert Systems with Applications, in press, 2015 <a href='../files/Example-Dependent Cost-Sensitive Decision Trees_preprint_accepted.pdf' target="_blank">[paper]</a>
 </div>
 
 <div class="pub">
