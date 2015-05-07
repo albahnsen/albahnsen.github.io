@@ -9,6 +9,7 @@ permalink: /publications/
 <div class="pub">
   <b>Example-Dependent Cost-Sensitive Decision Trees</b>,
   Expert Systems with Applications, in press, 2015 <a href='../files/Example-Dependent Cost-Sensitive Decision Trees_preprint_accepted.pdf' target="_blank">[paper]</a>
+<a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/cost_tree.py#L15' target="_blank">[source code]</a>
 </div>
 
 <div class="pub">
