@@ -7,9 +7,17 @@ permalink: /publications/
 ---
 
 <div class="pub">
-  <b>Example-Dependent Cost-Sensitive Decision Trees</b>,
-  Expert Systems with Applications, in press, 2015 <a href='../files/Example-Dependent Cost-Sensitive Decision Trees_preprint_accepted.pdf' target="_blank">[paper]</a>
+  <b>Ensemble of Example-Dependent Cost-Sensitive Decision Trees</b>,
+  arxiv, 2015. 
+  <a href='http://arxiv.org/abs/1505.04637' target="_blank">[paper]</a>
+<a href='../files/Ensembles of example-dependent cost-sensitive decision trees_slides.pdf' target="_blank">[slides]</a>
 <a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/cost_tree.py#L15' target="_blank">[source code]</a>
+</div>
+
+<div class="pub">
+  <b>Example-Dependent Cost-Sensitive Decision Trees</b>,
+  Expert Systems with Applications, 42(19), 6609–6619, 2015 <a href='../files/Example-Dependent Cost-Sensitive Decision Trees.pdf' target="_blank">[paper]</a>
+<a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/cost_ensemble.py' target="_blank">[source code]</a>
 </div>
 
 <div class="pub">
