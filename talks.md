@@ -8,8 +8,8 @@ permalink: /talks/
 
 <div class="pub">
   <b>Ensembles of example dependent cost-sensitive decision trees slides</b>,
-  April 28, 2015, Luxembourg.
-  <iframe src="//www.slideshare.net/slideshow/embed_code/key/CU2oGkHS7p8Yz" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
+  April 28, 2015, Luxembourg <p></p>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/CU2oGkHS7p8Yz" align="center" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
   </iframe>
 </div>
 
