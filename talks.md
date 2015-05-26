@@ -7,8 +7,11 @@ permalink: /talks/
 ---
 
 <div class="pub">
-  <b>Ensembles of example dependent cost-sensitive decision trees slides</b>,
-  April 28, 2015, Luxembourg <p></p>
+  <b>Ensembles of Example Dependent Cost-Sensitive Decision Trees</b>,
+  April 28, 2015, Luxembourg 
+<a href='http://arxiv.org/abs/1505.04637' target="_blank">[paper]</a>
+<a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/cost_tree.py#L15' target="_blank">[source code]</a>
+<p></p>
   <iframe src="//www.slideshare.net/slideshow/embed_code/key/CU2oGkHS7p8Yz" align="center" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
   </iframe>
 </div>
