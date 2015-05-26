@@ -7,6 +7,13 @@ permalink: /talks/
 ---
 
 <div class="pub">
+  <b>Ensembles of example dependent cost-sensitive decision trees slides</b>,
+  April 28, 2015, Luxembourg.
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/CU2oGkHS7p8Yz" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
+  </iframe>
+</div>
+
+<div class="pub">
   <b>Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?</b>,
   DataScience Luxembourg Meetup, March 4, 2015, Luxembourg
   <a href='https://albahnsen.shinyapps.io/presentation_jmlr_15_delgado14a' target="_blank">[webapp]</a>
