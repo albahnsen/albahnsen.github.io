@@ -7,6 +7,13 @@ permalink: /talks/
 ---
 
 <div class="pub">
+  <b>Example-Dependent Cost-Sensitive Credit Scoring using CostCla</b>,
+  PyData Berlin, May 30, 2015, Berlin, Germany
+<a href='https://www.youtube.com/watch?v=UUVRdRpPhJU' target="_blank">[video]</a>
+<a href='http://nbviewer.ipython.org/format/slides/github/albahnsen/CostSensitiveClassification/blob/master/doc/tutorials/slides_edcs_credit_scoring.ipynb#/' target="_blank">[slides]</a>
+</div>
+
+<div class="pub">
   <b>Ensembles of Example Dependent Cost-Sensitive Decision Trees</b>,
   April 28, 2015, Luxembourg 
 <a href='http://arxiv.org/abs/1505.04637' target="_blank">[paper]</a>
