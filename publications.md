@@ -7,6 +7,14 @@ permalink: /publications/
 ---
 
 <div class="pub">
+  <b>A novel cost-sensitive framework for customer churn predictive modeling</b>,
+  Decision Analytics, 2015. 
+  <a href='http://www.decisionanalyticsjournal.com/content/pdf/s40165-015-0014-6.pdf' target="_blank">[paper]</a>
+<a href='http://www.slideshare.net/albahnsen/maximizing-a-churn-campaigns-profitability-with-cost-sensitive-predictive-analytics' target="_blank">[slides]</a>
+<a href='https://github.com/albahnsen/CostSensitiveClassification/' target="_blank">[source code]</a>
+</div>
+
+<div class="pub">
   <b>Ensemble of Example-Dependent Cost-Sensitive Decision Trees</b>,
   arxiv, 2015. 
   <a href='http://arxiv.org/abs/1505.04637' target="_blank">[paper]</a>
