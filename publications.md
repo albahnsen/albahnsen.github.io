@@ -8,7 +8,7 @@ permalink: /publications/
 
 <div class="pub">
   <b>PhD Thesis: Example-Dependent Cost-Sensitive Classification</b>,
-  2015. 
+  University of Luxembourg, 2015. 
   <a href='https://github.com/albahnsen/phd-thesis/raw/master/Thesis_ExampleDependentCostSensitiveClassification.pdf' target="_blank">[thesis]</a>
 <a href='http://www.slideshare.net/albahnsen/phd-defense-exampledependent-costsensitive-classification' target="_blank">[slides]</a>
 <a href='https://github.com/albahnsen/phd-thesis' target="_blank">[repo]</a>
