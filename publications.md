@@ -7,6 +7,14 @@ permalink: /publications/
 ---
 
 <div class="pub">
+  <b>PhD Thesis: Example-Dependent Cost-Sensitive Classification</b>,
+  2015. 
+  <a href='https://github.com/albahnsen/phd-thesis/raw/master/Thesis_ExampleDependentCostSensitiveClassification.pdf' target="_blank">[thesis]</a>
+<a href='http://www.slideshare.net/albahnsen/phd-defense-exampledependent-costsensitive-classification' target="_blank">[slides]</a>
+<a href='https://github.com/albahnsen/phd-thesis' target="_blank">[repo]</a>
+</div>
+
+<div class="pub">
   <b>A novel cost-sensitive framework for customer churn predictive modeling</b>,
   Decision Analytics, 2015. 
   <a href='http://www.decisionanalyticsjournal.com/content/pdf/s40165-015-0014-6.pdf' target="_blank">[paper]</a>
