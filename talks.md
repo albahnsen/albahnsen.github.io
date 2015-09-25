@@ -7,6 +7,14 @@ permalink: /talks/
 ---
 
 <div class="pub">
+  <b>Fraud Analytics</b>,
+  Big Data Science Bogota Meetup, September 24, 2015, 
+<a href='https://youtu.be/eXtWRkfMisM?t=3615' target="_blank">[video]</a><p></p>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/BGJkJB1f7IPYP3?startSlide=5" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
+  </iframe>
+</div>
+
+<div class="pub">
   <b>Example-Dependent Cost-Sensitive Credit Scoring using CostCla</b>,
   PyData Berlin, May 30, 2015, Berlin, Germany
 <a href='https://www.youtube.com/watch?v=UUVRdRpPhJU' target="_blank">[video]</a>
