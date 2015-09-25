@@ -22,8 +22,6 @@ permalink: /talks/
   </iframe>
 </div>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/m4dThSrkP57BLC" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/albahnsen/phd-defense-exampledependent-costsensitive-classification" title="PhD Defense - Example-Dependent Cost-Sensitive Classification" target="_blank">PhD Defense - Example-Dependent Cost-Sensitive Classification</a> </strong> from <strong><a href="//www.slideshare.net/albahnsen" target="_blank">Alejandro Correa Bahnsen</a></strong> </div>
-
 <div class="pub">
   <b>Example-Dependent Cost-Sensitive Credit Scoring using CostCla</b>,
   PyData Berlin, May 30, 2015, Berlin, Germany
