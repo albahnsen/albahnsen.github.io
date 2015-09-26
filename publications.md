@@ -15,6 +15,12 @@ permalink: /publications/
 </div>
 
 <div class="pub">
+  <b>Detecting Credit Card Fraud using Periodic Features</b>,
+  IEEE International Conference on Machine Learning and Applications, December, 2015, Miami, US
+<a href='../files/Detecting Credit Card Fraud using Periodic Features_cameraready.pdf' target="_blank">[paper]</a>
+</div>
+
+<div class="pub">
   <b>A novel cost-sensitive framework for customer churn predictive modeling</b>,
   Decision Analytics, 2015. 
   <a href='http://www.decisionanalyticsjournal.com/content/pdf/s40165-015-0014-6.pdf' target="_blank">[paper]</a>
