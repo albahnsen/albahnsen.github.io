@@ -7,11 +7,17 @@ permalink: /talks/
 ---
 
 <div class="pub">
+  <b>Fraud Detection with Cost-Sensitive Predictive Analytics</b>,
+  Business Analytics in Finance and Industry, December 4, 2015, Santiago, Chile<p></p>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/vrdyWS5sA8cBR6" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
+  </iframe>
+</div>
+
+<div class="pub">
   <b>Fraud Analytics</b>,
   Big Data Science Bogota Meetup, September 24, 2015, 
-<a href='https://youtu.be/eXtWRkfMisM?t=3615' target="_blank">[video]</a><p></p>
-  <iframe src="//www.slideshare.net/slideshow/embed_code/key/BGJkJB1f7IPYP3?startSlide=5" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
-  </iframe>
+<a href='https://youtu.be/eXtWRkfMisM?t=3615' target="_blank">[video]</a>
+<a href='http://www.slideshare.net/BigDataColombia/fraud-analytics' target="_blank">[slides]</a>
 </div>
 
 <div class="pub">
