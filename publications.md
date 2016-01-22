@@ -6,6 +6,13 @@ permalink: /publications/
 
 ---
 
+
+<div class="pub">
+  <b>Feature Engineering Strategies for Credit Card Fraud Detection</b>,
+  Expert Systems with Applications, 51(1), 134-142, 2016
+<a href='../files/Feature Engineering Strategies for Credit Card Fraud Detection_published.pdf' target="_blank">[paper]</a>
+</div>
+
 <div class="pub">
   <b>PhD Thesis: Example-Dependent Cost-Sensitive Classification</b>,
   University of Luxembourg, 2015. 
