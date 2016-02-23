@@ -7,6 +7,12 @@ permalink: /talks/
 ---
 
 <div class="pub">
+  <b>Example-Dependent Cost-Sensitive Fraud Detection using CostCla</b>,
+  PyCaribbean, Feb 21, 2016, Santo Domingo, Dominican Republic
+<a href='http://nbviewer.jupyter.org/format/slides/github/albahnsen/CostSensitiveClassification/blob/master/doc/tutorials/slides_edcs_fraud_detection.ipynb#/' target="_blank">[slides]</a>
+</div>
+
+<div class="pub">
   <b>Fraud Detection with Cost-Sensitive Predictive Analytics</b>,
   Business Analytics in Finance and Industry, December 4, 2015, Santiago, Chile<p></p>
   <iframe src="//www.slideshare.net/slideshow/embed_code/key/vrdyWS5sA8cBR6" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
