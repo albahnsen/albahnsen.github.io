@@ -7,6 +7,12 @@ permalink: /talks/
 ---
 
 <div class="pub">
+  <b>Modern Data Science</b>,
+  Big Data Summit, August 19, 2016, Lima, Peru
+<a href='http://www.slideshare.net/albahnsen/modern-data-science' target="_blank">[slides]</a>
+</div>
+
+<div class="pub">
   <b>Example-Dependent Cost-Sensitive Fraud Detection using CostCla</b>,
   PyCaribbean, Feb 21, 2016, Santo Domingo, Dominican Republic
 <a href='http://nbviewer.jupyter.org/format/slides/github/albahnsen/CostSensitiveClassification/blob/master/doc/tutorials/slides_edcs_fraud_detection.ipynb#/' target="_blank">[slides]</a>

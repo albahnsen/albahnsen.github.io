@@ -6,6 +6,19 @@ permalink: /publications/
 
 ---
 
+<div class="pub">
+  <b>Knowing your enemies: leveraging data analysis to expose phishing patterns against a major US financial institution</b>,
+  IEEE APWG Symposium on Electronic Crime Research (eCrime), 1-10, 2016, Toronto, Canada.
+<a href='../files/knowing your enemies_published.pdf' target="_blank">[paper]</a>
+<a href='http://www.slideshare.net/JavierVargas112/knowing-your-enemies-leveraging-data-analysis-to-expose-phishing-patterns-against-a-major-us-financial-institution' target="_blank">[slides]</a>
+</div>
+
+<div class="pub">
+  <b>Phishing Classification using Lexical and Statistical Frequencies of URLs</b>,
+  Analytics Forum 2016, Universidad de los Andes, Bogota, Colombia. 
+  <a href='../files/Phishing Classification using Lexical and Statistical Frequencies of URLs.pdf' target="_blank">[abstract]</a>
+<a href='../files/Phishing-Classification---Poster-print.jpg' target="_blank">[poster]</a>
+</div>
 
 <div class="pub">
   <b>Feature Engineering Strategies for Credit Card Fraud Detection</b>,
