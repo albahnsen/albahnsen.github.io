@@ -8,8 +8,9 @@ permalink: /talks/
 
 <div class="pub">
   <b>Modern Data Science</b>,
-  Big Data Summit, August 19, 2016, Lima, Peru
-<a href='http://www.slideshare.net/albahnsen/modern-data-science' target="_blank">[slides]</a>
+  Big Data Summit, August 19, 2016, Lima, Peru<p></p>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/r0e2mpzoP3bgtL" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
+  </iframe>
 </div>
 
 <div class="pub">
