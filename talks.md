@@ -7,10 +7,22 @@ permalink: /talks/
 ---
 
 <div class="pub">
+  <b>Fraud Data Science</b>,
+  Mexican Banking Association Summit, September 2, 2016, Mexico City<p></p>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/2KAXOzsvvlrXKA" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
+  </iframe>
+</div>
+
+<div class="pub">
   <b>Modern Data Science</b>,
   Big Data Summit, August 19, 2016, Lima, Peru<p></p>
   <iframe src="//www.slideshare.net/slideshow/embed_code/key/r0e2mpzoP3bgtL" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
   </iframe>
+</div>
+
+<div class="pub">
+  <b>Advanced Fraud Detection using Data Science</b>,
+  Analytics Forum Universidad de los Andes, April 4, 2016, Bogota, Colombia.
 </div>
 
 <div class="pub">
