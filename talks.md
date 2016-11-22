@@ -4,8 +4,9 @@ title: Talks
 permalink: /talks/
 ---
 
+2016
 ---
-
+---
 <div class="pub">
   <b>Fraud Data Science</b>,
   Mexican Banking Association Summit, September 2, 2016, Mexico City<p></p>
@@ -31,6 +32,9 @@ permalink: /talks/
 <a href='http://nbviewer.jupyter.org/format/slides/github/albahnsen/CostSensitiveClassification/blob/master/doc/tutorials/slides_edcs_fraud_detection.ipynb#/' target="_blank">[slides]</a>
 </div>
 
+2015
+---
+---
 <div class="pub">
   <b>Fraud Detection with Cost-Sensitive Predictive Analytics</b>,
   Business Analytics in Finance and Industry, December 4, 2015, Santiago, Chile<p></p>
@@ -77,6 +81,9 @@ permalink: /talks/
   <a href="https://github.com/albahnsen/presentation_jmlr_15_delgado14a" target="_blank">[source code]</a>
 </div>
 
+2014
+---
+---
 <div class="pub">
   <b>Fraud analytics: detección y prevención de fraudes en la era del big data</b>,
   ASOBANCARIA - VIII Congreso de prevención del fraude, October 3, 2014, Bogota, Colombia
@@ -110,6 +117,9 @@ permalink: /talks/
   <a href='../files/2014_02_26 ACORREABAHNSEN EDCS Credit Scoring.pdf' target="_blank">[slides]</a>
 </div>
 
+2013 -
+---
+---
 <div class="pub">
 <b>Analytics - compitiendo en la era de la informacion</b>,
   October, 2013, Bogota, Colombia<p></p>

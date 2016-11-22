@@ -4,8 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
----
 
+2016
+---
+---
 <div class="pub">
   <b>Knowing your enemies: leveraging data analysis to expose phishing patterns against a major US financial institution</b>,
   IEEE APWG Symposium on Electronic Crime Research (eCrime), 1-10, 2016, Toronto, Canada.
@@ -19,6 +21,10 @@ permalink: /publications/
   <a href='../files/Phishing Classification using Lexical and Statistical Frequencies of URLs.pdf' target="_blank">[abstract]</a>
 <a href='../files/Phishing-Classification---Poster-print.jpg' target="_blank">[poster]</a>
 </div>
+
+2015
+---
+---
 
 <div class="pub">
   <b>Feature Engineering Strategies for Credit Card Fraud Detection</b>,
@@ -62,6 +68,9 @@ permalink: /publications/
 <a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/cost_ensemble.py' target="_blank">[source code]</a>
 </div>
 
+2014
+---
+---
 <div class="pub">
   <b>Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring</b>,
   International Conference on Machine Learning and Applications, December 3, 2014, Detroit, US <a href='../files/Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring_publish.pdf' target="_blank">[paper]</a>
@@ -77,6 +86,9 @@ permalink: /publications/
   <a href='https://github.com/albahnsen/CostSensitiveClassification/blob/master/costcla/models/directcost.py#L15' target="_blank">[source code]</a>
 </div>
 
+2013 -
+---
+---
 <div class="pub">
   <b>Cost Sensitive Credit Card Fraud Detection using Bayes Minimum Risk</b>,
   IEEE International Conference on Machine Learning and Applications, December 3, 2013, Miami, US
