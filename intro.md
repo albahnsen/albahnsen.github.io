@@ -12,7 +12,7 @@ I hold a PhD in <i>Machine Learning</i> from Luxembourg University. I have many 
 
 <div align="justify">
 I consider myself a technology evangelist on data science. I Enjoy giving <a href='/talks'>talks</a> on successful applications of big data science on different applications. Moreover I have been an active contributor to several open source projects such as <a href='http://scikit-learn.org' target="_blank">scikit-learn</a> and 
-<a href='/software'>scikit-learn</a>.
+<a href='/software'>costcla</a>.
 I have written and published many <a href='/publications'>academic and industrial papers</a> in the best per-review publications. Lastly, I also have experience as instructor of econometrics, financial risk management and machine learning.
 </div>
 <p></p>
