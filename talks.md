@@ -4,6 +4,22 @@ title: Talks
 permalink: /talks/
 ---
 
+2017
+---
+---
+<div class="pub">
+  <b>Tutorial - Practical Machine Learning with Python</b>,
+  Pycon.co, February 10, 2017, Bogota
+<a href='https://github.com/albahnsen/Tutorial_PracticalMachineLearning_Pycon' target="_blank">[Notebooks]</a>
+</div>
+
+<div class="pub">
+  <b>Demystifying Machine Learning</b>,
+  Pycon.co, February 10, 2017, Bogota <a href='https://github.com/albahnsen/Talk_Demystifying_Machine_Learning' target="_blank">[Notebook]</a><p></p>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/f2XeYhaQxrTabo" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
+  </iframe>
+</div>
+
 2016
 ---
 ---
