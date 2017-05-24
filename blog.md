@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 ---
 
+2017
+---
+---
+<div class="pub">
+<a href='http://blog.easysol.net/classifying-phishing-urls/' target="_blank"  style="font-size: 25px; text-decoration: none">Classifying Phishing URLs Using Recurrent Neural Networks</a>
+<br/>
+In a recent research paper, we showed how we are able to detect with a high level of accuracy if a website is a phish just by looking at the URL. This post lays out in greater detail how, by using a deep recurrent neural network, we’re able to accurately classify more than 98 percent of URLs...
+<a href='http://blog.easysol.net/classifying-phishing-urls/' target="_blank">[Read more]</a>
+</div>
+
+<div class="pub">
+<a href='http://blog.easysol.net/machine_learning_explained/' target="_blank"  style="font-size: 25px; text-decoration: none">Machine Learning Explained</a>
+<br/>
+Machine learning models are often dismissed on the grounds of lack of interpretability. There is a popular story about modern algorithms that goes as follows: Simple linear statistical models such as logistic regression yield to interpretable models. On the other hand, advanced models such as random forest or deep neural networks are black boxes, meaning it is nearly impossible to understand how a model is making a prediction...
+<a href='http://blog.easysol.net/machine_learning_explained/' target="_blank">[Read more]</a>
+</div>
 
 2016
 ---
