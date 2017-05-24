@@ -9,7 +9,7 @@ permalink: /talks/
 ---
 <div class="pub">
   <b>Classifying Phishing URLs Using Recurrent Neural Networks</b>,
-  IEEE APWG Symposium on Electronic Crime Research (eCrime), May 25, 2017, Scottsdale, USA <a href='../files/Classifying Phishing URLs Using Recurrent Neural Networks_cameraready' target="_blank">[paper]</a><p></p>
+  IEEE APWG Symposium on Electronic Crime Research (eCrime), May 25, 2017, Scottsdale, USA <a href='../files/Classifying Phishing URLs Using Recurrent Neural Networks_cameraready.pdf' target="_blank">[paper]</a><p></p>
   <iframe src="//www.slideshare.net/slideshow/embed_code/key/2MeM1VRe5THtZW" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
   </iframe>
 </div>
