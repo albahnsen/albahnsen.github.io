@@ -8,6 +8,20 @@ permalink: /blog/
 ---
 ---
 <div class="pub">
+<a href='http://blog.easysol.net/real-time-learning-to-reinforcement-learning/' target="_blank"  style="font-size: 25px; text-decoration: none">Classifying Phishing URLs Using Recurrent Neural Networks</a>
+<br/>
+Online, or real-time, transactional fraud detection systems have recently created quite the buzz in the info security industry. They are an appealing concept: Because we know that fraud patterns change over time, the ability to use machine-learning algorithms to automatically learn new patterns instantly allows us to have a stronger defense system.
+<a href='http://blog.easysol.net/real-time-learning-to-reinforcement-learning/' target="_blank">[Read more]</a>
+</div>
+
+<div class="pub">
+<a href='http://blog.easysol.net/building-ai-applications/' target="_blank"  style="font-size: 25px; text-decoration: none">Classifying Phishing URLs Using Recurrent Neural Networks</a>
+<br/>
+Recently, we have seen a huge boom around the field of deep learning; it is currently being implemented in a wide variety of fields, from driverless cars to product recommendation. In their most primitive form, deep learning algorithms originated in the 1960s...
+<a href='http://blog.easysol.net/building-ai-applications/' target="_blank">[Read more]</a>
+</div>
+
+<div class="pub">
 <a href='http://blog.easysol.net/classifying-phishing-urls/' target="_blank"  style="font-size: 25px; text-decoration: none">Classifying Phishing URLs Using Recurrent Neural Networks</a>
 <br/>
 In a recent research paper, we showed how we are able to detect with a high level of accuracy if a website is a phish just by looking at the URL. This post lays out in greater detail how, by using a deep recurrent neural network, we’re able to accurately classify more than 98 percent of URLs...
