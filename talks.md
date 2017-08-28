@@ -9,7 +9,7 @@ permalink: /talks/
 ---
 <div class="pub">
   <b>Maximizing a churn campaign profitability with cost sensitive machine learning</b>,
-  Big Data Analytics Summit, August 26, 2017, Lima, Peru<p></p> <a href='http://www.decisionanalyticsjournal.com/content/pdf/s40165-015-0014-6.pdf' target="_blank">[paper]</a><p></p>
+  Big Data Analytics Summit, August 26, 2017, Lima, Peru <a href='http://www.decisionanalyticsjournal.com/content/pdf/s40165-015-0014-6.pdf' target="_blank">[paper]</a><p></p>
   <iframe src="//www.slideshare.net/slideshow/embed_code/key/tHhrPwEWbpzYLO" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
   </iframe>
 </div>
