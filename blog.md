@@ -8,6 +8,19 @@ permalink: /blog/
 ---
 ---
 <div class="pub">
+<a href='http://blog.easysol.net/machine-learning-algorithms-2/' target="_blank"  style="font-size: 25px; text-decoration: none">Machine Learning Algorithms Explained – Random Forests</a>
+<br/>
+Random Forests are supervised ensemble-learning models used for classification and regression. Ensemble learning models aggregate multiple machine learning models, allowing for overall better performance. The logic behind this is that each of the models used is weak when employed on its own, but strong when put together in an ensemble. In the case of Random Forests...
+<a href='http://blog.easysol.net/machine-learning-algorithms-2/' target="_blank">[Read more]</a>
+</div>
+
+<div class="pub">
+<a href='http://blog.easysol.net/cost-sensitive-decision-trees/' target="_blank"  style="font-size: 25px; text-decoration: none">Fraud Detection by Stacking Cost-Sensitive Decision Trees</a>
+<br/>
+Recently, we published a research paper showing how it is possible to detect fraudulent credit card transactions with a high level of accuracy and a low number of false positives. By using ensembles of cost-sensitive decision trees, we can save up to 73 percent of losses stemming from fraud. Here’s how.<a href='http://blog.easysol.net/cost-sensitive-decision-trees/' target="_blank">[Read more]</a>
+</div>
+
+<div class="pub">
 <a href='http://blog.easysol.net/machine-learning-algorithms-1/' target="_blank"  style="font-size: 25px; text-decoration: none">Machine Learning Algorithms Explained – Decision Trees</a>
 <br/>
 In our new series, Machine Learning Algorithms Explained, our goal is to give you a good sense of how the algorithms behind machine learning work, as well as the strengths and weaknesses of different methods. Each post in this series will briefly explain a different algorithm.
